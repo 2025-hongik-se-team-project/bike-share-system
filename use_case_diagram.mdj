@@ -18,7 +18,200 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "Bike Share System Usecase Diagram",
-					"defaultDiagram": true
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLActorView",
+							"_id": "AAAAAAGWmxY42pdnlD8=",
+							"_parent": {
+								"$ref": "AAAAAAGWmxWds5degRU="
+							},
+							"model": {
+								"$ref": "AAAAAAGWmxY42ZdlB5Q="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGWmxY42pdoy6o=",
+									"_parent": {
+										"$ref": "AAAAAAGWmxY42pdnlD8="
+									},
+									"model": {
+										"$ref": "AAAAAAGWmxY42ZdlB5Q="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGWmxY42pdpnOU=",
+											"_parent": {
+												"$ref": "AAAAAAGWmxY42pdoy6o="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": -32,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGWmxY42pdqJ00=",
+											"_parent": {
+												"$ref": "AAAAAAGWmxY42pdoy6o="
+											},
+											"font": "Arial;13;1",
+											"parentStyle": true,
+											"left": 45,
+											"top": 438,
+											"width": 87,
+											"height": 13,
+											"text": "회원"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGWmxY42pdrhiU=",
+											"_parent": {
+												"$ref": "AAAAAAGWmxY42pdoy6o="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": -32,
+											"width": 114,
+											"height": 13,
+											"text": "(from Main Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGWmxY42pdsiYI=",
+											"_parent": {
+												"$ref": "AAAAAAGWmxY42pdoy6o="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": -32,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 40,
+									"top": 431,
+									"width": 97,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGWmxY42pdpnOU="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGWmxY42pdqJ00="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGWmxY42pdrhiU="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGWmxY42pdsiYI="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAGWmxY42pdt6TQ=",
+									"_parent": {
+										"$ref": "AAAAAAGWmxY42pdnlD8="
+									},
+									"model": {
+										"$ref": "AAAAAAGWmxY42ZdlB5Q="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": -16,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAGWmxY42pdu8C4=",
+									"_parent": {
+										"$ref": "AAAAAAGWmxY42pdnlD8="
+									},
+									"model": {
+										"$ref": "AAAAAAGWmxY42ZdlB5Q="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": -16,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAGWmxY42pdvxnM=",
+									"_parent": {
+										"$ref": "AAAAAAGWmxY42pdnlD8="
+									},
+									"model": {
+										"$ref": "AAAAAAGWmxY42ZdlB5Q="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": -16,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAGWmxY42pdwD0k=",
+									"_parent": {
+										"$ref": "AAAAAAGWmxY42pdnlD8="
+									},
+									"model": {
+										"$ref": "AAAAAAGWmxY42ZdlB5Q="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": -16,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 40,
+							"top": 336,
+							"width": 96,
+							"height": 120,
+							"nameCompartment": {
+								"$ref": "AAAAAAGWmxY42pdoy6o="
+							},
+							"suppressAttributes": true,
+							"suppressOperations": true,
+							"attributeCompartment": {
+								"$ref": "AAAAAAGWmxY42pdt6TQ="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAGWmxY42pdu8C4="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAGWmxY42pdvxnM="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAGWmxY42pdwD0k="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLActor",
+					"_id": "AAAAAAGWmxY42ZdlB5Q=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "회원"
 				}
 			]
 		}
