@@ -5,3 +5,7 @@ use case : 자전거 대여 정보 조회
 2번
 requirement : 회원이 자전거 예약대기 정보를 조회할 수 있어야 한다
 use case : 자전거 예약대기 정보 조회
+
+3번
+requirement : 예약 대기는 취소할 수 있어야 한다
+use case : 자전거 예약대기 취소
