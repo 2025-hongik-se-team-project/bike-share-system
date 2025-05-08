@@ -842,7 +842,12 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"top": -128,
+=======
+											"left": -32,
+											"top": 144,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"height": 13
 										},
 										{
@@ -853,8 +858,13 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 289.5,
 											"top": 180,
+=======
+											"left": 273.5,
+											"top": 316,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"width": 125,
 											"height": 13,
 											"text": "자전거 상세내용 조회"
@@ -868,7 +878,12 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"top": -128,
+=======
+											"left": -32,
+											"top": 144,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"width": 111.90283203125,
 											"height": 13,
 											"text": "(from Main Model)"
@@ -882,15 +897,25 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"top": -128,
+=======
+											"left": -32,
+											"top": 144,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 284.5,
 									"top": 173,
+=======
+									"left": 268.5,
+									"top": 309,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 135,
 									"height": 25,
 									"stereotypeLabel": {
@@ -918,7 +943,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"top": -64,
+=======
+									"left": -16,
+									"top": 72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -934,7 +964,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"top": -64,
+=======
+									"left": -16,
+									"top": 72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -950,7 +985,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"top": -64,
+=======
+									"left": -16,
+									"top": 72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -966,7 +1006,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"top": -64,
+=======
+									"left": -16,
+									"top": 72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -982,7 +1027,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"top": -64,
+=======
+									"left": -16,
+									"top": 72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								}
@@ -990,8 +1040,13 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
+<<<<<<< HEAD
 							"left": 256,
 							"top": 168,
+=======
+							"left": 240,
+							"top": 304,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 							"width": 192,
 							"height": 35,
 							"nameCompartment": {
@@ -1044,8 +1099,13 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 640,
 											"top": -416,
+=======
+											"left": 608,
+											"top": -144,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"height": 13
 										},
 										{
@@ -1056,8 +1116,13 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 614.5,
 											"top": 116,
+=======
+											"left": 598.5,
+											"top": 252,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"width": 113,
 											"height": 13,
 											"text": "등록된 자전거 삭제"
@@ -1071,8 +1136,13 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 640,
 											"top": -416,
+=======
+											"left": 608,
+											"top": -144,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"width": 111.90283203125,
 											"height": 13,
 											"text": "(from Main Model)"
@@ -1086,16 +1156,26 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 640,
 											"top": -416,
+=======
+											"left": 608,
+											"top": -144,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 609.5,
 									"top": 109,
+=======
+									"left": 593.5,
+									"top": 245,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 123,
 									"height": 25,
 									"stereotypeLabel": {
@@ -1123,8 +1203,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 320,
 									"top": -208,
+=======
+									"left": 304,
+									"top": -72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -1140,8 +1225,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 320,
 									"top": -208,
+=======
+									"left": 304,
+									"top": -72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -1157,8 +1247,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 320,
 									"top": -208,
+=======
+									"left": 304,
+									"top": -72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -1174,8 +1269,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 320,
 									"top": -208,
+=======
+									"left": 304,
+									"top": -72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -1191,8 +1291,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 320,
 									"top": -208,
+=======
+									"left": 304,
+									"top": -72,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								}
@@ -1200,8 +1305,13 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
+<<<<<<< HEAD
 							"left": 584,
 							"top": 104,
+=======
+							"left": 568,
+							"top": 240,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 							"width": 174,
 							"height": 35,
 							"nameCompartment": {
@@ -2659,8 +2769,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 506,
 									"top": 125,
+=======
+									"left": 490,
+									"top": 261,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2680,8 +2795,13 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 480,
 									"top": 95,
+=======
+									"left": 464,
+									"top": 255,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": -1.477919106022786,
@@ -2704,8 +2824,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 507,
 									"top": 96,
+=======
+									"left": 491,
+									"top": 232,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2724,7 +2849,11 @@
 								"$ref": "AAAAAAGWne9Xr7Y8gfg="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "583:119;431:115",
+=======
+							"points": "567:255;415:251",
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWnfChzwn4/zE="
@@ -4290,8 +4419,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 235,
 									"top": 209,
+=======
+									"left": 209,
+									"top": 269,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4312,8 +4446,13 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 230,
 									"top": 195,
+=======
+									"left": 213,
+									"top": 254,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -4334,8 +4473,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 246,
 									"top": 236,
+=======
+									"left": 202,
+									"top": 298,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4356,8 +4500,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 195,
 									"top": 225,
+=======
+									"left": 181,
+									"top": 263,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -4378,8 +4527,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 192,
 									"top": 212,
+=======
+									"left": 187,
+									"top": 250,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -4400,8 +4554,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 201,
 									"top": 252,
+=======
+									"left": 171,
+									"top": 289,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -4422,8 +4581,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 275,
 									"top": 193,
+=======
+									"left": 237,
+									"top": 276,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -4443,8 +4607,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 268,
 									"top": 182,
+=======
+									"left": 237,
+									"top": 262,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -4464,8 +4633,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 289,
 									"top": 217,
+=======
+									"left": 235,
+									"top": 304,
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -4485,8 +4659,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 24,
 									"top": 16,
+=======
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								},
@@ -4502,8 +4679,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 24,
 									"top": 16,
+=======
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 									"width": 10,
 									"height": 10
 								}
@@ -4517,7 +4697,11 @@
 								"$ref": "AAAAAAGWne64wqusWjA="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "177:255;305:204",
+=======
+							"points": "153:278;259:303",
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWrk+NAACKoOU="
@@ -4553,6 +4737,7 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGWrk+NAACUGWk="
 							}
+<<<<<<< HEAD
 						},
 						{
 							"_type": "UMLUseCaseView",
@@ -15042,6 +15227,8 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGWsK0r+FKYc9k="
 							}
+=======
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 						}
 					]
 				},
@@ -15291,6 +15478,7 @@
 									"$ref": "AAAAAAGWne8/LLU6MT4="
 								}
 							}
+<<<<<<< HEAD
 						},
 						{
 							"_type": "UMLGeneralization",
@@ -15439,6 +15627,8 @@
 									"$ref": "AAAAAAGWsJxDe4kvtco="
 								}
 							}
+=======
+>>>>>>> 9d49198 (update: Q&A 답변 적용한 수정)
 						}
 					]
 				},
